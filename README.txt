@@ -27,7 +27,7 @@ Leave notepad++ open as you play, have classes folder open
 DON'T EVER NOT USE GIT
 
 
-If you make a bash script to set up the symlinks using the tf2 path as STD input, make a PR and I'll merge it
+If you make a bash script to set up the symlinks using STD input as the TF2 path, make a PR and I'll merge it
 
 
 
