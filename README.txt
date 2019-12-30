@@ -13,7 +13,7 @@ You can delete them any time and re-verify in steam to undo everything.
 
 
 ====I AM A PROGRAMMER====
-git clone https://github.com/willtheoct/.0tf2ofig.git
+git clone git@github.com:willtheoct/.0tf2ofig.git
 
 Make some symlinks to drag files quickly:
 mklink /J "~custom" "/steamapps/common/Team Fortress 2/tf/custom"
@@ -27,5 +27,10 @@ Leave notepad++ open as you play, have classes folder open
 DON'T EVER NOT USE GIT
 
 
+If you make a bash script to set up the symlinks using the tf2 path as STD input, make a PR and I'll merge it
+
+
 
 Yttrium's mod hides viewmodels for some weapons, which lets you see more. Run it to change which weps are hidden.
+I think GCFScape is to put GIFs into TF2' sprays
+Improved Default hud? I don't remember but it seems alright
