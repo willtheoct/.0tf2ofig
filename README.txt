@@ -13,12 +13,14 @@ You can delete them any time and re-verify in steam to undo everything.
 
 
 ====I AM A PROGRAMMER====
+#cmd
 git clone git@github.com:willtheoct/.0tf2ofig.git
 
-Make some symlinks to drag files quickly:
+#Make some symlinks to drag files quickly:
 mklink /J "~custom" "/steamapps/common/Team Fortress 2/tf/custom"
 mklink /J "~cfg" "/steamapps/common/Team Fortress 2/tf/custom/customConfig/cfg"
 cd classes && mklink /J "~cfg" "/steamapps/common/Team Fortress 2/tf/custom/customConfig/cfg"
+==========================
 
 Put this project in your quick navigation links in explorer
 Leave notepad++ open as you play, have classes folder open
